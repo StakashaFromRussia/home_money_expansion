@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6f3487a1-6c43-4914-8e53-5fd93f8d3c4d">
+  <name>РЗ_УчетРабочегоВремени</name>
+  <synonym>
+    <key>ru</key>
+    <value>Учет рабочего времени</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Document.РЗ_ПланыЗанятий</content>
+  <content>Catalog.РЗ_УровниВладенияЯзыком</content>
+  <content>Report.РЗ_ПланЗанятий</content>
+  <content>InformationRegister.РЗ_ЦеныЗанятий</content>
+  <content>InformationRegister.РЗ_ЦеныУровнейВладенияЯзыком</content>
+  <content>InformationRegister.РЗ_УровниВладенияЯзыкомУчеников</content>
+  <content>InformationRegister.РЗ_ПланыЗанятий</content>
+  <content>Catalog.РЗ_Задачи</content>
+  <content>Report.РЗ_УчетВремениВыполненияРабот</content>
+  <content>Document.РЗ_УчетРабочегоВремениНовый</content>
+  <content>Enum.РЗ_ВидыУчетаРабочегоВремени</content>
+  <content>Report.РЗ_УчетРабочегоВремениНовый</content>
+  <content>Document.РЗ_НачислениеЗарплаты</content>
+</mdclass:Subsystem>
